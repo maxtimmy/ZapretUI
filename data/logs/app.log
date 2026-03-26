@@ -1,0 +1,137 @@
+[10:26:11] [INFO] profile created: profile_2
+[10:28:31] [INFO] profile saved: profile_2
+[10:28:33] [INFO] profile saved: profile_2
+[10:28:51] [WARN] profile deleted: profile_2
+[10:28:53] [WARN] profile deleted: default
+[10:28:59] [INFO] profile created: profile_1
+[10:29:03] [INFO] profile saved: profile_1
+[10:29:13] [INFO] profile saved: profile_1
+[10:29:18] [INFO] starting: ping 1.1.1.1
+[10:29:18] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:29:18] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=52.855 ms
+[10:29:19] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=56.095 ms
+[10:29:20] [INFO] 64 bytes from 1.1.1.1: icmp_seq=2 ttl=57 time=53.477 ms
+[10:29:21] [INFO] 64 bytes from 1.1.1.1: icmp_seq=3 ttl=57 time=53.204 ms
+[10:29:22] [INFO] 64 bytes from 1.1.1.1: icmp_seq=4 ttl=57 time=60.328 ms
+[10:29:23] [INFO] 64 bytes from 1.1.1.1: icmp_seq=5 ttl=57 time=52.824 ms
+[10:29:24] [INFO] 64 bytes from 1.1.1.1: icmp_seq=6 ttl=57 time=52.766 ms
+[10:29:25] [INFO] 64 bytes from 1.1.1.1: icmp_seq=7 ttl=57 time=52.548 ms
+[10:29:26] [INFO] 64 bytes from 1.1.1.1: icmp_seq=8 ttl=57 time=52.589 ms
+[10:29:27] [INFO] 64 bytes from 1.1.1.1: icmp_seq=9 ttl=57 time=53.057 ms
+[10:29:28] [INFO] 64 bytes from 1.1.1.1: icmp_seq=10 ttl=57 time=52.989 ms
+[10:29:29] [INFO] 64 bytes from 1.1.1.1: icmp_seq=11 ttl=57 time=52.477 ms
+[10:29:30] [INFO] 64 bytes from 1.1.1.1: icmp_seq=12 ttl=57 time=52.993 ms
+[10:29:31] [INFO] 64 bytes from 1.1.1.1: icmp_seq=13 ttl=57 time=52.740 ms
+[10:29:32] [INFO] 64 bytes from 1.1.1.1: icmp_seq=14 ttl=57 time=55.814 ms
+[10:29:33] [INFO] 64 bytes from 1.1.1.1: icmp_seq=15 ttl=57 time=52.243 ms
+[10:29:34] [INFO] 64 bytes from 1.1.1.1: icmp_seq=16 ttl=57 time=52.816 ms
+[10:29:35] [INFO] 64 bytes from 1.1.1.1: icmp_seq=17 ttl=57 time=53.179 ms
+[10:29:36] [INFO] 64 bytes from 1.1.1.1: icmp_seq=18 ttl=57 time=61.125 ms
+[10:29:37] [INFO] 64 bytes from 1.1.1.1: icmp_seq=19 ttl=57 time=60.012 ms
+[10:29:38] [INFO] 64 bytes from 1.1.1.1: icmp_seq=20 ttl=57 time=60.031 ms
+[10:29:39] [INFO] 64 bytes from 1.1.1.1: icmp_seq=21 ttl=57 time=56.468 ms
+[10:29:40] [INFO] 64 bytes from 1.1.1.1: icmp_seq=22 ttl=57 time=60.210 ms
+[10:29:41] [INFO] 64 bytes from 1.1.1.1: icmp_seq=23 ttl=57 time=59.792 ms
+[10:29:42] [INFO] 64 bytes from 1.1.1.1: icmp_seq=24 ttl=57 time=56.016 ms
+[10:29:43] [INFO] 64 bytes from 1.1.1.1: icmp_seq=25 ttl=57 time=53.370 ms
+[10:29:44] [INFO] 64 bytes from 1.1.1.1: icmp_seq=26 ttl=57 time=54.877 ms
+[10:29:45] [INFO] 64 bytes from 1.1.1.1: icmp_seq=27 ttl=57 time=52.818 ms
+[10:29:46] [INFO] 64 bytes from 1.1.1.1: icmp_seq=28 ttl=57 time=52.516 ms
+[10:29:47] [INFO] 64 bytes from 1.1.1.1: icmp_seq=29 ttl=57 time=53.099 ms
+[10:29:48] [INFO] 64 bytes from 1.1.1.1: icmp_seq=30 ttl=57 time=52.901 ms
+[10:29:49] [INFO] 64 bytes from 1.1.1.1: icmp_seq=31 ttl=57 time=59.718 ms
+[10:29:50] [INFO] 64 bytes from 1.1.1.1: icmp_seq=32 ttl=57 time=53.131 ms
+[10:29:51] [INFO] stopping process
+[10:29:51] [INFO] process exited with code: -15
+[10:33:19] [INFO] starting: ping 1.1.1.1
+[10:33:19] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:33:19] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=52.129 ms
+[10:33:20] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=52.392 ms
+[10:33:21] [INFO] 64 bytes from 1.1.1.1: icmp_seq=2 ttl=57 time=52.664 ms
+[10:33:21] [INFO] stopping process
+[10:33:22] [INFO] process exited with code: -15
+[10:33:24] [WARN] profile deleted: profile_1
+[10:43:28] [INFO] profile saved: default
+[10:43:32] [INFO] starting: ping 1.1.1.1.1
+[10:43:32] [INFO] ping: cannot resolve 1.1.1.1.1: Unknown host
+[10:43:32] [INFO] process exited with code: 68
+[10:43:39] [INFO] profile saved: default
+[10:43:41] [INFO] starting: ping 1.1.1.1
+[10:43:41] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:43:41] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=53.224 ms
+[10:43:42] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=53.793 ms
+[10:43:43] [INFO] 64 bytes from 1.1.1.1: icmp_seq=2 ttl=57 time=52.839 ms
+[10:43:44] [INFO] 64 bytes from 1.1.1.1: icmp_seq=3 ttl=57 time=52.828 ms
+[10:43:45] [INFO] 64 bytes from 1.1.1.1: icmp_seq=4 ttl=57 time=52.993 ms
+[10:43:46] [INFO] 64 bytes from 1.1.1.1: icmp_seq=5 ttl=57 time=52.708 ms
+[10:43:47] [INFO] 64 bytes from 1.1.1.1: icmp_seq=6 ttl=57 time=52.673 ms
+[10:43:48] [INFO] 64 bytes from 1.1.1.1: icmp_seq=7 ttl=57 time=59.935 ms
+[10:43:49] [INFO] 64 bytes from 1.1.1.1: icmp_seq=8 ttl=57 time=52.393 ms
+[10:43:50] [INFO] 64 bytes from 1.1.1.1: icmp_seq=9 ttl=57 time=59.831 ms
+[10:43:50] [INFO] stopping process
+[10:43:51] [INFO] process exited with code: -15
+[10:44:00] [INFO] starting: ping 1.1.1.1
+[10:44:00] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:44:00] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=61.442 ms
+[10:44:01] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=59.602 ms
+[10:44:02] [INFO] stopping process
+[10:44:02] [INFO] process exited with code: -15
+[10:48:56] [INFO] starting: ping 1.1.1.1
+[10:48:56] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:48:56] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=63.881 ms
+[10:48:57] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=52.739 ms
+[10:48:58] [INFO] 64 bytes from 1.1.1.1: icmp_seq=2 ttl=57 time=53.109 ms
+[10:48:59] [INFO] 64 bytes from 1.1.1.1: icmp_seq=3 ttl=57 time=52.662 ms
+[10:49:00] [INFO] 64 bytes from 1.1.1.1: icmp_seq=4 ttl=57 time=52.814 ms
+[10:49:01] [INFO] 64 bytes from 1.1.1.1: icmp_seq=5 ttl=57 time=52.289 ms
+[10:49:02] [INFO] 64 bytes from 1.1.1.1: icmp_seq=6 ttl=57 time=52.123 ms
+[10:49:03] [INFO] 64 bytes from 1.1.1.1: icmp_seq=7 ttl=57 time=51.924 ms
+[10:49:04] [INFO] 64 bytes from 1.1.1.1: icmp_seq=8 ttl=57 time=59.619 ms
+[10:49:05] [INFO] 64 bytes from 1.1.1.1: icmp_seq=9 ttl=57 time=67.382 ms
+[10:49:06] [INFO] 64 bytes from 1.1.1.1: icmp_seq=10 ttl=57 time=52.492 ms
+[10:49:06] [INFO] stopping process
+[10:49:07] [INFO] process exited with code: -15
+[10:49:29] [INFO] settings saved
+[10:49:35] [INFO] settings saved
+[10:49:36] [INFO] settings saved
+[10:49:42] [INFO] starting: ping 1.1.1.1
+[10:49:42] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:49:42] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=52.377 ms
+[10:49:43] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=52.671 ms
+[10:49:44] [INFO] 64 bytes from 1.1.1.1: icmp_seq=2 ttl=57 time=52.825 ms
+[10:49:45] [INFO] 64 bytes from 1.1.1.1: icmp_seq=3 ttl=57 time=52.329 ms
+[10:49:46] [INFO] 64 bytes from 1.1.1.1: icmp_seq=4 ttl=57 time=52.962 ms
+[10:49:47] [INFO] 64 bytes from 1.1.1.1: icmp_seq=5 ttl=57 time=54.351 ms
+[10:49:48] [INFO] 64 bytes from 1.1.1.1: icmp_seq=6 ttl=57 time=52.724 ms
+[10:49:49] [INFO] 64 bytes from 1.1.1.1: icmp_seq=7 ttl=57 time=53.030 ms
+[10:49:49] [INFO] stopping process
+[10:49:49] [INFO] process exited with code: -15
+[10:50:18] [INFO] starting: ping 1.1.1.1
+[10:50:18] [INFO] PING 1.1.1.1 (1.1.1.1): 56 data bytes
+[10:50:18] [INFO] 64 bytes from 1.1.1.1: icmp_seq=0 ttl=57 time=52.891 ms
+[10:50:19] [INFO] 64 bytes from 1.1.1.1: icmp_seq=1 ttl=57 time=52.621 ms
+[10:50:20] [INFO] 64 bytes from 1.1.1.1: icmp_seq=2 ttl=57 time=52.304 ms
+[10:50:21] [INFO] 64 bytes from 1.1.1.1: icmp_seq=3 ttl=57 time=52.281 ms
+[10:50:22] [INFO] 64 bytes from 1.1.1.1: icmp_seq=4 ttl=57 time=53.068 ms
+[10:50:23] [INFO] 64 bytes from 1.1.1.1: icmp_seq=5 ttl=57 time=52.572 ms
+[10:50:24] [INFO] 64 bytes from 1.1.1.1: icmp_seq=6 ttl=57 time=52.590 ms
+[10:50:25] [INFO] 64 bytes from 1.1.1.1: icmp_seq=7 ttl=57 time=52.857 ms
+[10:50:26] [INFO] 64 bytes from 1.1.1.1: icmp_seq=8 ttl=57 time=52.593 ms
+[10:50:27] [INFO] 64 bytes from 1.1.1.1: icmp_seq=9 ttl=57 time=53.007 ms
+[10:50:28] [INFO] 64 bytes from 1.1.1.1: icmp_seq=10 ttl=57 time=53.031 ms
+[10:50:29] [INFO] 64 bytes from 1.1.1.1: icmp_seq=11 ttl=57 time=54.232 ms
+[10:50:30] [INFO] 64 bytes from 1.1.1.1: icmp_seq=12 ttl=57 time=53.027 ms
+[10:50:31] [INFO] 64 bytes from 1.1.1.1: icmp_seq=13 ttl=57 time=52.934 ms
+[10:50:32] [INFO] 64 bytes from 1.1.1.1: icmp_seq=14 ttl=57 time=53.192 ms
+[10:50:33] [INFO] 64 bytes from 1.1.1.1: icmp_seq=15 ttl=57 time=52.060 ms
+[10:50:34] [INFO] 64 bytes from 1.1.1.1: icmp_seq=16 ttl=57 time=53.723 ms
+[10:50:35] [INFO] 64 bytes from 1.1.1.1: icmp_seq=17 ttl=57 time=56.791 ms
+[10:50:36] [INFO] 64 bytes from 1.1.1.1: icmp_seq=18 ttl=57 time=54.982 ms
+[10:50:37] [INFO] 64 bytes from 1.1.1.1: icmp_seq=19 ttl=57 time=53.033 ms
+[10:50:39] [INFO] 64 bytes from 1.1.1.1: icmp_seq=20 ttl=57 time=53.602 ms
+[10:50:40] [INFO] 64 bytes from 1.1.1.1: icmp_seq=21 ttl=57 time=52.417 ms
+[10:50:41] [INFO] 64 bytes from 1.1.1.1: icmp_seq=22 ttl=57 time=52.707 ms
+[10:50:42] [INFO] 64 bytes from 1.1.1.1: icmp_seq=23 ttl=57 time=77.117 ms
+[10:50:43] [INFO] 64 bytes from 1.1.1.1: icmp_seq=24 ttl=57 time=53.085 ms
+[10:50:44] [INFO] 64 bytes from 1.1.1.1: icmp_seq=25 ttl=57 time=56.664 ms
+[10:50:45] [INFO] 64 bytes from 1.1.1.1: icmp_seq=26 ttl=57 time=52.909 ms

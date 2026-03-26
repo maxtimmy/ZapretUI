@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "name": "default",
+      "interface": "",
+      "dns": "1.1.1.1",
+      "mode": "normal",
+      "timeout": 30,
+      "autostart": false,
+      "command": "ping 1.1.1.1",
+      "domains": []
+    }
+  ],
+  "settings": {
+    "default_profile": "default",
+    "theme": "dark",
+    "to_tray": false,
+    "auto_save": true,
+    "window_width": 1280,
+    "window_height": 820
+  }
+}
