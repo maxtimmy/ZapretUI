@@ -1,0 +1,24 @@
+{
+  "profiles": [
+    {
+      "name": "default",
+      "interface": "",
+      "dns": "1.1.1.1",
+      "mode": "normal",
+      "timeout": 30,
+      "autostart": false,
+      "command": "",
+      "domains": [
+        "example.com"
+      ]
+    }
+  ],
+  "settings": {
+    "default_profile": "default",
+    "theme": "dark",
+    "to_tray": true,
+    "auto_save": true,
+    "window_width": 1280,
+    "window_height": 820
+  }
+}
